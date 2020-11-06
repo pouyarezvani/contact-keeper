@@ -40,13 +40,6 @@ const ContactForm = () => {
             updateContact(contact);
         }
         clearAll();
-        contactContext.addContact(contact);
-        setContact({
-            name: '',
-            email: '',
-            phone: '',
-            type: 'personal'
-        })
     };
 
     const clearAll = () => {
