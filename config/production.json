@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://pouya123:pouya123@db-pouya.nkwop.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
